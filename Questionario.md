@@ -9,3 +9,6 @@
 
 4 - O que é merge?
  R: é pra unir os branch
+
+5 - O que é pull?
+ R: é como se fosse um aviso para outras pessoas sobre as alterações feitas em uma branch
