@@ -15,3 +15,6 @@
 
 7 - O que é branch?
  R: é uma ramificação/filial do repositorio
+
+8 - O que é pull request?
+ R: Ele permite a proposta de alterações no projeto
