@@ -3,3 +3,6 @@
 
 2 - O que é commit?
  R: o Commit é um registro de alterações na branch
+
+3 - O que é um repositório?
+ R: é um  local aonde armazena aquivos e o historico de revisão de cada arquivo
