@@ -12,3 +12,6 @@
 
 5 - O que é pull?
  R: é como se fosse um aviso para outras pessoas sobre as alterações feitas em uma branch
+
+7 - O que é branch?
+ R: é uma ramificação/filial do repositorio
