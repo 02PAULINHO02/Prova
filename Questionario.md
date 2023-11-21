@@ -6,3 +6,6 @@
 
 3 - O que é um repositório?
  R: é um  local aonde armazena aquivos e o historico de revisão de cada arquivo
+
+4 - O que é merge?
+ R: é pra unir os branch
